@@ -27,3 +27,5 @@ foil
 
 etc...
 ```
+
+_Please note that the script can allow for longer or shorter words based on preference and longer or shorter guesses per game..._
