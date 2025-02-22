@@ -6,8 +6,8 @@ This is a repository of a bash script that runs a Wordle game (like the one foun
 * Requirements include:
   * Linux 
   * MacOS
-  * Knowing how to utilize bash scripts as to not do something detrimental to your system ;)
-  * Provide your own word list
+  * Bash scripts ;)
+  * Provide your own word list (script will be added in a later repository for scraping word lists from any text.)
  
 ## An example of a word list may include:
 
