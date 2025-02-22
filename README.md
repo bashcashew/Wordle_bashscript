@@ -22,7 +22,7 @@ stale
 there
 theme
 poles
-foil
+foils
 
 
 etc...
